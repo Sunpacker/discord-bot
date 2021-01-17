@@ -7,6 +7,7 @@ Use <b>npm run start</b> to start the bot.
 Command starts with [prefix], which defined in 'config.ts' file.
 <br/>
 <br/>
+Available list of commands:
 <ul>
   <li>Get the list of commands: [prefix] info</li>
   <li>Play music in voice chat: [prefix] play <i>link</i></i>
