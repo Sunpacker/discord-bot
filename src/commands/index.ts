@@ -27,9 +27,9 @@ function commandsController(message: Message): void {
     case "play":
       cmdPlay(message, args[0]);
       break;
-    // case "stop":
-    //   cmdStop(message);
-    //   break;
+    case "stop":
+      cmdStop(message);
+      break;
   }
 }
 
