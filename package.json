@@ -17,6 +17,7 @@
   "author": "Sunpacker",
   "license": "ISC",
   "devDependencies": {
+    "@rollup/plugin-json": "^4.1.0",
     "@rollup/plugin-typescript": "^8.1.0",
     "rollup": "^2.36.2",
     "rollup-plugin-uglify": "^6.0.4",

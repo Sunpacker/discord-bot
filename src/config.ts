@@ -1,5 +1,5 @@
 import { Client } from "discord.js";
-import config from "./config.json";
+import * as config from "./config.json";
 
 /** Instance of discord client */
 export const bot = new Client();
